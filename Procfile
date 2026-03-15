@@ -1,0 +1,1 @@
+web: python aisafi_bot.py
